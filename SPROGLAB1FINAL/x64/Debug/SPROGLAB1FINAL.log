@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\koval\source\repos\SPORGLAB1FINAL\SPROGLAB1FINAL\main.cpp(34,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  SPROGLAB1FINAL.vcxproj -> C:\Users\koval\Source\Repos\SPORGLAB1FINAL\x64\Debug\SPROGLAB1FINAL.exe
